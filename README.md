@@ -2,7 +2,7 @@
 
 ## Slides
 
-The workshop slides are in this repo: [2026-Git-1.3.pptx](2026-Git-1.3.pptx)
+The workshop slides are in this repo: [2026-Git-1.4.pptx](2026-Git-1.4.pptx)
 
 ---
 
